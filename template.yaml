@@ -12,4 +12,4 @@ Resources:
       Role: 'arn:aws:iam::658514554862:role/service-role/search-photos-role-fdb1iia9'
       Runtime: python3.8
       Timeout: 3
- 
+  
