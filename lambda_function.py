@@ -48,7 +48,7 @@ def lambda_handler(event, context):
         
         searchitem = connectwithlex(userinput)
         allurl = []
-        print(1)
+        print(2)
         for item in searchitem:
             search(item, allurl)
     
